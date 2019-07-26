@@ -1,3 +1,8 @@
+Simple, project that tries to detect all text from your visible browser tab.
+
+Load the build folder as an unpacked extension at chrome://extensions
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
